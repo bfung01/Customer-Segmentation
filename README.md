@@ -3,7 +3,8 @@
 This repository contains the code and dataset for a customer segmentation analysis using the KMeans clustering algorithm. The project aims to segment customers into distinct groups based on their behaviors and characteristics to tailor marketing strategies and improve customer service effectively.
 
 ## Complimentary Medium Post
-Here is a link to my Medium post describing my processes and the insights that can be draw from it. https://medium.com/inst414-data-science-tech/customer-segmentation-bdd7e1053cb3
+Here is a link to my Medium post describing my processes and the insights that can be draw from it:
+https://medium.com/inst414-data-science-tech/customer-segmentation-bdd7e1053cb3
 
 ## Project Structure
 
